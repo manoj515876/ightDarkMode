@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-dark {
+  background-color: #000000;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.heading-dark {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.btn {
+  background-color: #ffffff;
+  color: #000000;
+  border-width: 0px;
+  width: 90px;
+  height: 30px;
+  padding: 4px;
+  border-radius: 6px;
+  border: 1px solid #000000;
+}
+
+.card-light {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  border: 1px solid #000000;
+}
+
+.heading-light {
+  color: #000000;
+  font-family: 'Roboto';
+}
